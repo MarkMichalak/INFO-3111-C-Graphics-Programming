@@ -25,7 +25,7 @@ typedef struct Vertex
 
 static const Vertex vertices[6] =
 {
-    { { -1.6f, -0.4f }, { 1.0f, 0.0f, 0.0f } },
+    { { -0.6f, -0.4f }, { 1.0f, 0.0f, 0.0f } },
     { {  0.6f, -0.4f }, { 0.0f, 1.0f, 0.0f } },
     { {  0.0f,  0.6f }, { 0.0f, 0.0f, 1.0f } }
 };
