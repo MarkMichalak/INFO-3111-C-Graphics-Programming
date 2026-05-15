@@ -4,6 +4,8 @@
 #define GLFW_INCLUDE_NONE
 #include <GLFW/glfw3.h>
 
+#include <iostream>
+
 //#include "linmath.h"      // Another math library we aren't using
 #include <glm/glm.hpp>
 #include <glm/vec3.hpp> // glm::vec3
